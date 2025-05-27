@@ -13,10 +13,10 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yasiru-vithana">
+  <a href="https://www.linkedin.com/in/yasiru-v-1519b7250">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yasiru.vithana@gmail.com">
+  <a href="mailto:diwyanvithana@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://diw-666.github.io">
