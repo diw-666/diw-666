@@ -139,23 +139,7 @@
 
 <br>
 
-## 🎯 2024 Goals
-<div align="center">
-  <table>
-    <tr>
-      <td>🎓</td>
-      <td>AWS Certification</td>
-      <td>🌟</td>
-      <td>5+ Open Source Contributions</td>
-    </tr>
-    <tr>
-      <td>📱</td>
-      <td>Master Flutter</td>
-      <td>🏆</td>
-      <td>Join Kaggle Competitions</td>
-    </tr>
-  </table>
-</div>
+
 
 <br>
 
