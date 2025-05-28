@@ -125,14 +125,9 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/diw-666/FinanceTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diw-666&repo=FinanceTracker&theme=radical" />
-  </a>
-  <a href="https://github.com/diw-666/data-science-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diw-666&repo=data-science-projects&theme=radical" />
-  </a>
-</div>
+- 🔒 [Finance Tracker](https://github.com/diw-666/FinanceTracker)
+- 🔒 [Serendatta](https://github.com/diw-666/serendatta)
+- 🔓 [Road Accident Analysis Dashboard](https://github.com/diw-666/road) 
 
 <br>
 
