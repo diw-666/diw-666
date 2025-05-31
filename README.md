@@ -26,10 +26,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diw-666&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <br>
 
 ## 🎯 Quick Facts
@@ -39,7 +35,7 @@
       <td>🎓</td>
       <td>Data Science @ SLIIT</td>
       <td>💻</td>
-      <td>Building cool stuff with Kotlin & Python</td>
+      <td>Building cool stuff with JavaScript & Python</td>
     </tr>
     <tr>
       <td>🚀</td>
