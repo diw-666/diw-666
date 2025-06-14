@@ -119,11 +119,51 @@
 
 <br>
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-- 🔒 [Finance Tracker](https://github.com/diw-666/FinanceTracker)
-- 🔒 [Serendatta](https://github.com/diw-666/serendatta)
-- 🔓 [Road Accident Analysis Dashboard](https://github.com/diw-666/road) 
+### 📱 Mobile & Web Applications
+<div align="left">
+  
+**💰 Finance Tracker** | `Kotlin` | `Android`
+[![Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)](https://github.com/diw-666/FinanceTracker)
+> Personal finance management mobile application built with Kotlin for Android. Features expense tracking, budget management, and financial analytics to help users manage their personal finances effectively.
+
+**🎯 Serendatta** | `JavaScript` | `Web App`
+[![Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)](https://github.com/diw-666/serendatta)
+> Interactive web application developed with JavaScript, focusing on data visualization and user experience. Features modern UI/UX design patterns and responsive functionality.
+
+**🌍 Earthquake Monitoring Dashboard** | `HTML/CSS/JS` | `Data Visualization`
+[![Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/diw-666/earthquake)
+> Real-time earthquake monitoring dashboard with interactive visualizations. Built with HTML, CSS, and JavaScript to display seismic activity data with geographical mapping and trend analysis.
+
+</div>
+
+### 📊 Data Science & Analytics Projects
+<div align="left">
+
+**🚗 Road Accident Analysis Dashboard** | `Python` | `Data Analytics`
+[![Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/diw-666/road)
+> Comprehensive road accident data analysis using Python. Features statistical analysis, predictive modeling, and interactive dashboards to identify accident patterns and risk factors for traffic safety improvement.
+
+**🌡️ Climate Data Analysis** | `Python` | `Environmental Analytics`
+[![Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/diw-666/climate)
+> Climate change analysis project utilizing Python for data processing and visualization. Analyzes temperature trends, precipitation patterns, and climate indicators using statistical modeling and machine learning techniques.
+
+**🦟 Dengue Outbreak Prediction** | `Python` | `Public Health Analytics`
+[![Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/diw-666/dengue)
+> Predictive analytics model for dengue fever outbreak prediction using machine learning. Incorporates weather data, population demographics, and historical outbreak patterns to forecast potential dengue hotspots.
+
+**🌾 Paddy Crop Analysis** | `Python` | `Agricultural Analytics`
+[![Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/diw-666/paddy)
+> Agricultural data analysis focusing on paddy crop yield prediction and optimization. Uses Python for data processing, statistical analysis, and machine learning to help farmers improve crop productivity and resource management.
+
+</div>
+
+### 🎯 Project Highlights
+- **7 Active Repositories** spanning multiple domains
+- **4 Programming Languages**: Python, Kotlin, JavaScript, HTML
+- **Focus Areas**: Data Science, Mobile Development, Web Applications, Analytics
+- **Domains**: Finance, Healthcare, Environment, Agriculture, Transportation
 
 <br>
 
