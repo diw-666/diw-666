@@ -159,12 +159,6 @@
 
 </div>
 
-### 🎯 Project Highlights
-- **7 Active Repositories** spanning multiple domains
-- **4 Programming Languages**: Python, Kotlin, JavaScript, HTML
-- **Focus Areas**: Data Science, Mobile Development, Web Applications, Analytics
-- **Domains**: Finance, Healthcare, Environment, Agriculture, Transportation
-
 <br>
 
 ## 📊 GitHub Stats
