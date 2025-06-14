@@ -132,10 +132,6 @@
 [![Repo](https://img.shields.io/badge/Repository-Private-red?style=flat-square&logo=github)](https://github.com/diw-666/serendatta)
 > Interactive web application developed with JavaScript, focusing on data visualization and user experience. Features modern UI/UX design patterns and responsive functionality.
 
-**🌍 Earthquake Monitoring Dashboard** | `HTML/CSS/JS` | `Data Visualization`
-[![Repo](https://img.shields.io/badge/Repository-Public-brightgreen?style=flat-square&logo=github)](https://github.com/diw-666/earthquake)
-> Real-time earthquake monitoring dashboard with interactive visualizations. Built with HTML, CSS, and JavaScript to display seismic activity data with geographical mapping and trend analysis.
-
 </div>
 
 ### 📊 Data Science & Analytics Projects
